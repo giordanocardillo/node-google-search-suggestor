@@ -10,6 +10,8 @@ cd app
 node .
 ```
 
+Then go to `localhost:5454?q={SEARCH-QUERY-HERE}` to test it!
+
 ## Docker image
 
 For your convenience i added a Dockerfile to build image for Docker.
