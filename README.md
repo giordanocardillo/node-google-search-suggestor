@@ -29,4 +29,9 @@ Then run it
 docker run --name google-suggestor-proxy -d -p 0.0.0.0:5454:5454 giordanocardillo/nodejs-google-suggestor-proxy
 ```
 
-This project is also available on Docker Hub
+This project is also available on [Docker Hub](https://hub.docker.com/r/giordanocardillo/node-google-search-suggestor), just do
+
+```bash
+docker pull giordanocardillo/node-google-search-suggestor
+```
+
